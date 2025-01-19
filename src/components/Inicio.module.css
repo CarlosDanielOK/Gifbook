@@ -1,0 +1,16 @@
+.inicio {
+  text-align: center;
+  margin-top: 40px;
+  width: 550px;
+}
+
+.inicioCreadorMensaje {
+  margin-top: 10px;
+}
+
+@media (max-width: 600px) {
+  .inicio {
+    width: 80%;
+    margin-top: 30px;
+  }
+}
