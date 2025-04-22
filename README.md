@@ -12,6 +12,7 @@
 - ⚡️ Interfaz rápida y responsiva.
 - 🌟 Estilos modernos con CSS.
 - 🔧 Consumiendo la API de Giphy.
+- 📲 Integración con WhatsApp, Facebook y Twitter para compartir GIFs.
 
 ---
 
