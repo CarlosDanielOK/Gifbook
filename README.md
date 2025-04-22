@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tecnologías usadas
+## 🛠️ Tecnologías
 
 - HTML5, CSS3, JavaScript
 - [React](https://reactjs.org/)
@@ -29,7 +29,7 @@
 Si quieres correrlo localmente:
 
 ```bash
-git clone https://github.com/tuusuario/gifbook.git
+git clone https://github.com/CarlosDanielOK/Gifbook.git
 cd gifbook
 npm install
 npm run dev
