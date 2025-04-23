@@ -2,7 +2,7 @@
 
 **Gifbook** es una aplicación web desarrollada con **React + Vite** que permite buscar y compartir GIFs animados ilimitados usando la API de Giphy. Ideal para divertirte y descubrir contenido visual en segundos.
 
-- 🔗 **Deploy en Netlify**: [gifbook.netlify.app](https://gifbook.netlify.app)
+- 🔗 **Deploy en Netlify**: https://gifbook.netlify.app
 - 📲 **Ver demo en YouTube**: https://www.youtube.com/watch?v=DMSPqtG46rA
 
 ---
