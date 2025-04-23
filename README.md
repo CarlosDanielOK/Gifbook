@@ -35,11 +35,10 @@
 Si quieres correrlo localmente necesitás una API key de [Giphy](https://developers.giphy.com/).
 
 1. Creá un archivo llamado `.env` en la raíz del proyecto.
-2. Pegá tu API key.
+2. Pegá tu API key así:  `VITE_TENOR_API_KEY=tu_api_key_aqui`
 
 ```bash
-VITE_TENOR_API_KEY=tu_api_key_aqui
 git clone https://github.com/CarlosDanielOK/Gifbook.git
-cd gifbook
+cd Gifbook
 npm install
 npm run dev
