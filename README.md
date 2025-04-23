@@ -25,9 +25,10 @@
 
 ---
 
-## 🖼️ Vista previa
+## 🖥️ Vista previa
 
-![Gifbook preview](https://i.imgur.com/abcd123.png)
+![Captura Desktop](./assets/capturadesktop.png)
+![Captura Mobile](./assets/capturamobile.png)
 
 ## 📦 Instalación
 
