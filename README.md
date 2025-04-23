@@ -27,8 +27,8 @@
 
 ## 🖥️ Vista previa
 
-![Captura Desktop](.src/assets/capturadesktop.png)
-![Captura Mobile](.src/assets/capturamobile.png)
+![Captura Desktop](src/assets/capturadesktop.png)
+![Captura Mobile](src/assets/capturamobile.png)
 
 ## 📦 Instalación
 
