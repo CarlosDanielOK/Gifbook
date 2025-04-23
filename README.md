@@ -25,6 +25,10 @@
 
 ---
 
+## 🖼️ Vista previa
+
+![Gifbook preview](https://i.imgur.com/abcd123.png)
+
 ## 📦 Instalación
 
 Si quieres correrlo localmente:
